@@ -1,0 +1,6 @@
+@neo4j_first_run_HostAddress = http://localhost:5274
+
+GET {{neo4j_first_run_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
